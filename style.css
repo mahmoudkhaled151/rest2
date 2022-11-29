@@ -181,6 +181,7 @@
     height: .09%;
     background-color: black;
 }
+
 @media (max-width:1000px)
 {
     .pro
@@ -198,6 +199,10 @@
     padding-left: 0%;
 }
 .con
+{
+    width: 100%;
+}
+.cont
 {
     width: 100%;
 }
