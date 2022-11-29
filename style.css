@@ -181,3 +181,26 @@
     height: .09%;
     background-color: black;
 }
+@media (min-width:0px ) and (max-width:576px)
+{
+    .pro
+    {
+      width: 100%;
+    }
+    .loc
+    {
+        width: 100%;
+    }
+    .location img
+{
+    width: 100%;
+    height: 60%;
+    padding-left: 0%;
+}
+.con
+{
+    width: 100%;
+}
+
+}
+    
